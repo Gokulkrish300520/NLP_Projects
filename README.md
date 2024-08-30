@@ -6,8 +6,17 @@ This repository contains multiple Natural Language Processing (NLP) projects org
 
 ## Project Structure
 
-- **NLP_1**: [Description of NLP_1]
-- **NLP_2**: [Description of NLP_2]
+- **NLP_1**:
+  
+Text Preprocessing: Tokenization, stop-word removal, stemming, and lemmatization.
+Text Representation: Bag-of-Words, TF-IDF, and word embeddings.
+Text Classification: Using machine learning models to classify text data.
+Sentiment Analysis: Analyzing the sentiment of text data.
+Named Entity Recognition (NER): Identifying entities in text.
+
+- **NLP_2**:
+
+
 - **NLP_3**: [Description of NLP_3]
 - **NLP_4**: [Description of NLP_4]
 
