@@ -14,10 +14,10 @@ Text Classification: Using machine learning models to classify text data.
 Sentiment Analysis: Analyzing the sentiment of text data.
 Named Entity Recognition (NER): Identifying entities in text.
 
-- **NLP_2**:
+- **NLP_3**:
 
+This project automates the process of screening resumes using machine learning algorithms. The goal is to filter and rank resumes based on predefined criteria, making the recruitment process more efficient and effective.
 
-- **NLP_3**: [Description of NLP_3]
 - **NLP_4**: [Description of NLP_4]
 
 Each folder contains individual README files with detailed information about their respective projects, code, and usage instructions.
